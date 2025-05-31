@@ -1,0 +1,15 @@
+<raiz>
+        
+    <projeto local="São Paulo" nome="Projeto X">
+                
+        <Trabalhador cpf="555.555.555-55" nome="Victor">gerente de projeto</Trabalhador>
+            
+    </projeto>
+    
+    <pai_2 atribute2="value" atributo1="value">
+        <filho atributo1="value" atributo2="value">conteudo</filho>
+        <filho atributo1="value" atributo2="value">
+            <filho atributo1="value" atributo2="value">conteudo</filho>
+        </filho>
+    </pai_2>
+</raiz>
